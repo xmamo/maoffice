@@ -1,0 +1,69 @@
+---
+carousel:
+  image_duration: 5s
+  transition_duration: 1s
+
+  images:
+    - /assets/images/index/01.jpg
+    - /assets/images/index/02.gif
+    - /assets/images/index/03.jpg
+    - /assets/images/index/04.gif
+    - /assets/images/index/05.jpg
+    - /assets/images/index/06.jpg
+    - /assets/images/index/07.gif
+    - /assets/images/index/08.jpg
+    - /assets/images/index/09.jpg
+    - /assets/images/index/10.jpg
+---
+
+{% capture scss %}
+  $count: {{ page.carousel.images.size }};
+  $image-duration: {{ page.carousel.image_duration }};
+  $transition-duration: {{ page.carousel.transition_duration }};
+  $total-duration: ($image-duration + $transition-duration);
+
+  .carousel-item {
+    animation-duration: ($total-duration * $count);
+  }
+
+  @keyframes carousel-item-animation {
+    @for $i from 0 to $count {
+      #{percentage($i / $count)},
+      #{percentage(($total-duration * $i + $image-duration) / ($total-duration * $count))} {
+        translate: (-100% * $i);
+      }
+    }
+
+    100% {
+      translate: (-100% * $count);
+    }
+  }
+{% endcapture %}
+
+{% capture the_css %}
+  <style>
+    {{ scss | scssify }}
+  </style>
+{% endcapture %}
+
+{% capture the_content %}
+  <main>
+    <h1>Morena Architects è uno studio internazionale di architettura con sede a Monfalcone, Italia</h1>
+
+    <div class="carousel">
+      {% for image in page.carousel.images %}
+        <a href="#{{ forloop.index }}" tabindex="-1" class="carousel-item flex">
+          <img src="{{ image | relative_url }}" class="cover" />
+        </a>
+      {% endfor %}
+
+      {% for image in page.carousel.images limit: 1 %}
+        <a href="#{{ forloop.index }}" tabindex="-1" class="carousel-item flex" aria-hidden="true">
+          <img src="{{ image | relative_url }}" class="cover" />
+        </a>
+      {% endfor %}
+    </div>
+  </main>
+{% endcapture %}
+
+{% include layout.html head_other=the_css content=the_content %}

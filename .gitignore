@@ -1,0 +1,12 @@
+/.jekyll-cache/
+/.sass-cache/
+/.bundle/
+/.vscode/
+/_site/
+/node_modules/
+/vendor/
+
+/.jekyll-metadata
+/Gemfile.lock
+
+.DS_STORE
