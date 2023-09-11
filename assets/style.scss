@@ -52,8 +52,8 @@ iframe {
 
 // Horizontal definition list
 
-.horizontal dl >, dl.horizontal > {
-  dt {
+dl.horizontal {
+  > dt {
     float: left;
     font-weight: bold;
 
@@ -64,7 +64,7 @@ iframe {
     }
   }
 
-  dd {
+  > dd {
     margin: 0;
   }
 }
