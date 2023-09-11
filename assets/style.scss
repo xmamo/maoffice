@@ -41,8 +41,32 @@ img {
   max-width: 100%;
 }
 
+sup,
+sub {
+  line-height: 0;
+}
+
 iframe {
   border: none;
+}
+
+// Horizontal definition list
+
+.horizontal dl >, dl.horizontal > {
+  dt {
+    float: left;
+    font-weight: bold;
+
+    &::after {
+      content: ": ";
+      font-weight: normal;
+      white-space: pre;
+    }
+  }
+
+  dd {
+    margin: 0;
+  }
 }
 
 // Menu

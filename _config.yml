@@ -1,20 +1,20 @@
-title: Morena Architects
-repository: xmamo/maoffice
-timezone: Europe/Rome
-permalink: /:categories/:title
+title: 'Morena Architects'
+repository: 'xmamo/maoffice'
+timezone: 'Europe/Rome'
+permalink: '/:categories/:title'
 strict_front_matter: true
 theme: null
 
 exclude:
-  - /node_modules/
-  - /vendor/
-  - /bootstrap/
-  - /CNAME
-  - /Gemfile
-  - /Gemfile.lock
+  - '/node_modules/'
+  - '/vendor/'
+  - '/bootstrap/'
+  - '/CNAME'
+  - '/Gemfile'
+  - '/Gemfile.lock'
 
 liquid:
-  error_mode: strict
+  error_mode: 'strict'
   strict_filters: true
 
 kramdown:
