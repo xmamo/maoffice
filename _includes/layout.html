@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -10,12 +10,12 @@
   </head>
 
   <body>
-    <nav style="display: flex; gap: 1em; justify-content: space-between;">
+    <nav id="main-navbar">
       <a href="{{ site.baseurl }}{% link index.html %}">
-        <img src="{{ site.baseurl }}{% link assets/images/logo.jpg %}" height="64" alt="Morena Architects logo" />
+        <img src="{{ site.baseurl }}{% link assets/images/logo.jpg %}" alt="Morena Architects logo" id="main-logo" />
       </a>
 
-      <menu id="main-menu">
+      <menu>
         <li>
           <a href="{{ site.baseurl }}{% link chi-siamo.md %}" class="menu-link">Chi siamo</a>
         </li>

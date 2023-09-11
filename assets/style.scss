@@ -6,15 +6,25 @@
 *,
 *::before,
 *::after {
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 body {
-  margin: 1em auto;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 1em;
   max-width: 960px;
   color: hsl(0, 0%, 10%);
-  line-height: 1.5;
-  font: (1em * (18px / 16px)) sans-serif;
+  font: #{1em * (18px / 16px)}/1.5 sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
 }
 
 a {
@@ -29,6 +39,10 @@ a {
 img {
   display: block;
   max-width: 100%;
+}
+
+iframe {
+  border: none;
 }
 
 // Menu
@@ -58,14 +72,27 @@ menu {
 
 @keyframes carousel-item-animation {}
 
-// Main menu
+// Main navigation bar
 
-#main-menu {
-  a {
+#main-navbar {
+  display: flex;
+  gap: 2em;
+  justify-content: space-between;
+  align-items: center;
+
+  .menu {
+    margin: 0;
+  }
+
+  .menu-link {
     color: #5A5B5B;
 
     &:hover {
       color: #F26722;
     }
   }
+}
+
+#main-logo {
+  height: 4em;
 }
