@@ -1,7 +1,7 @@
 ---
 layout: 'project'
 
-title: 'Ex albergo operai'
+title: 'Ex Albergo Operai'
 
 data:
   - { key: 'Luogo', value: 'Monfalcone (GO), Italia' }
