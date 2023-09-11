@@ -1,7 +1,6 @@
 title: Morena Architects
 repository: xmamo/maoffice
 timezone: Europe/Rome
-baseurl: /maoffice
 permalink: /:categories/:title
 strict_front_matter: true
 theme: null
