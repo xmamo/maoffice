@@ -1,7 +1,7 @@
 ---
+layout: 'project'
+title: 'Chi siamo'
 ---
-
-# Chi siamo
 
 L'Architetto Francesco Morena apre un proprio studio professionale nel 1983 a Monfalcone (GO) con il
 nome Studio Morena. Con l'aumentare dell'attività professionale e degli incarichi internazionali
