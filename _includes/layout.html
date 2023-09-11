@@ -1,11 +1,11 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="it">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {{ include.head_meta }}
     <title>{{ site.title }}{% if page.title != nil %} | {{ page.title }}{% endif %}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}{% link assets/styles/main.scss %}" />
+    <link rel="stylesheet" href="{{ site.baseurl }}{% link assets/style.scss %}" />
     {{ include.head_other }}
   </head>
 
@@ -25,7 +25,7 @@
         </li>
 
         <li>
-          <a href="{{ site.baseurl }}{% link contatti.html %}" class="menu-link">Contatti</a>
+          <a href="{{ site.baseurl }}{% link contatti.md %}" class="menu-link">Contatti</a>
         </li>
       </menu>
     </nav>
