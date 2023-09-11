@@ -52,11 +52,11 @@ carousel:
 
     <div class="carousel">
       {% for image in page.carousel.images %}
-        <img src="{{ image | relative_url }}" class="carousel-item" />
+        <img src="{{ image | relative_url }}" class="carousel-item cover"  />
       {% endfor %}
 
       {% for image in page.carousel.images limit: 1 %}
-        <img src="{{ image | relative_url }}" class="carousel-item" />
+        <img src="{{ image | relative_url }}" class="carousel-item cover" />
       {% endfor %}
     </div>
   </main>
