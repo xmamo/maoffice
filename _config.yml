@@ -19,3 +19,6 @@ liquid:
 
 kramdown:
   auto_ids: false
+
+optional_front_matter:
+  remove_originals: true
