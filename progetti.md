@@ -1,3 +1,7 @@
+---
+layout: 'default'
+---
+
 # Progetti
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em;">
