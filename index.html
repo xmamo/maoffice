@@ -30,12 +30,12 @@ carousel:
     @for $i from 0 to $count {
       #{percentage($i / $count)},
       #{percentage(($total-duration * $i + $image-duration) / ($total-duration * $count))} {
-        translate: (-100% * $i);
+        transform: translateX(-100% * $i);
       }
     }
 
     100% {
-      translate: (-100% * $count);
+      transform: translateX(-100% * $count);
     }
   }
 {% endcapture %}
