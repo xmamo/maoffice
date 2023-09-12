@@ -36,4 +36,6 @@ subconscio:
 
 Tutto questo è "concept".
 
-E tutto questo, può essere ripreso in una sola idea: una forte relazione tra costruito e natura. La natura diventa la costruzione e viceversa, un edificio solido costruito con materiali innovativi, interpretato nell'era digitale, ma radicata nella storia.
+E tutto questo, può essere ripreso in una sola idea: una forte relazione tra costruito e natura. La
+natura diventa la costruzione e viceversa, un edificio solido costruito con materiali innovativi,
+interpretato nell'era digitale, ma radicata nella storia.
