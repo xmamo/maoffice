@@ -6,3 +6,11 @@ group :jekyll_plugins do
 end
 
 gem "webrick"
+
+platforms :windows, :mswin, :mswin64, :jruby do
+  gem "tzinfo-data"
+end
+
+platforms :windows, :mswin, :mswin64 do
+  gem "wdm"
+end
