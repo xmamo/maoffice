@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {{ include.head_meta }}
     <title>{{ site.title | smartify }}{% if page.title != nil %} | {{ page.title | smartify }}{% endif %}</title>
+    <link rel="icon" href="{{ site.baseurl }}{% link assets/images/icon.png %}" />
     <link rel="stylesheet" href="{{ site.baseurl }}{% link assets/style.scss %}" />
     {{ include.head_other }}
   </head>
