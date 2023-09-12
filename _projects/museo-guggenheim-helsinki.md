@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'Museo Gugghenheim Helsinki'
 
 data:

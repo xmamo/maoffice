@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'Nuova Galleria Nazionale e museo Ludwig'
 
 data:

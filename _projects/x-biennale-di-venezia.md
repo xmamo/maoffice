@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'X Biennale di Venezia'
 
 data:

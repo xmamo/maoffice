@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'Banca Popolare di Cividale del Friuli'
 
 data:

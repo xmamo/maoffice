@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'Ex Albergo Operai'
 
 data:

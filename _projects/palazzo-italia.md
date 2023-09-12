@@ -1,6 +1,4 @@
 ---
-layout: 'project'
-
 title: 'Palazzo Italia: concorso internazionale "Padiglione Italia Expo 2015"'
 
 data:
