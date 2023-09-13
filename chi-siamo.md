@@ -3,7 +3,7 @@ title: 'Chi siamo'
 
 data:
   - key: 'Chief Architect'
-    value: 'Francesco Morena'
+    value: 'Morena Francesco'
 
   - key: 'Collaboratori dal 2010'
     value: >-
