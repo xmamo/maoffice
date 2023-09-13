@@ -1,18 +1,29 @@
 ---
+title: 'Contatti'
 layout: 'default'
 ---
 
-# Contatti
+<div style="display: flex; gap: 4em;">
+  <div style="flex: 1 0;">
+    <h1>{{ page.title }}</h1>
 
-Morena Architects \
-Arch. Francesco Morena
+    <p>
+      Morena Architects<br />
+      Arch. Francesco Morena
+    </p>
 
-Via della Pietà, 1 \
-34074 Monfalcone (GO) \
-Italia
+    <p>
+      Via della Pietà, 1<br />
+      34074 Monfalcone (GO)<br />
+      Italia
+    </p>
 
-Tel. +39 0481 791433 \
-Mail: info@maoffice.it \
-P. IVA: 00343950317
+    <p>
+      Tel. +39 0481 791433<br />
+      Mail: info@maoffice.it<br />
+      P. IVA: 00343950317
+    </p>
+  </div>
 
-<iframe width="640" height="480" allow="fullscreen" src="https://maps.google.com/?cid=11905058789974441088&t=k&output=embed"></iframe>
+  <iframe allow="fullscreen" src="https://maps.google.com/?cid=11905058789974441088&t=k&output=embed" style="flex: 2 0; margin: 35px 0 1em;"></iframe>
+</div>
