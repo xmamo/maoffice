@@ -7,7 +7,7 @@ data:
   - { key: 'Anno', value: '2014' }
 
 images:
-  - '/assets/images/guggenheim-helsinki-museum/01.jpg'
+  - '/assets/images/guggenheim-helsinki-museum/GHM001.jpg'
 ---
 
 La città di Helsinki colpisce per due sue caratteristiche: in primo luogo, per il rapporto con
