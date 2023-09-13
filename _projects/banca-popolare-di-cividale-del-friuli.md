@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
 
 images:
-  - '/assets/images/banca-popolare-di-cividale-del-friuli/01.jpg'
+  - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
 ---
 
 La Nuova Sede della Banca Popolare di Cividale sorge all'interno dell'ex area Italcementi. Si tratta
