@@ -1,5 +1,9 @@
 ---
 title: 'Chi siamo'
+
+data:
+  - { key: 'Cheaf Architect', value: 'Arch. Francesco Morena' }
+  - { key: 'Collaboratori', value: 'Prova' }
 ---
 
 L'Architetto Francesco Morena apre un proprio studio professionale nel 1983 a Monfalcone (GO) con il
