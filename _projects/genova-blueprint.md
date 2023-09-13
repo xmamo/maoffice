@@ -5,7 +5,7 @@ data:
   - { key: 'Luogo', value: 'Genova, Italia' }
   - { key: 'Committente', value: 'Concorso Internazionale' }
   - { key: 'Anno', value: '2016' }
-  - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
+  - { key: 'Area', value: 'SLP 50.000m<sup>2</sup>' }
 
 images:
   - '/assets/images/genova-blueprint/GBP001.jpg'
