@@ -2,7 +2,7 @@
 title: 'Chi siamo'
 
 data:
-  - { key: 'Chief Architect', value: 'Arch. Francesco Morena' }
+  - { key: 'Chief Architect', value: 'Francesco Morena' }
   - { key: 'Collaboratori dal 2010', value: 'Babich Francesco
 Botteghelli Lorenzo
 Buda Ivo
