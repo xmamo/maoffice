@@ -12,5 +12,5 @@ images:
 ---
 
 AH Superbar è un progetto di interior design custom made per la riqualificazione e
-rifunzionalizazione di un locale al piano terra nel centro storico della città di
-Klagenfurt in Austria.
+rifunzionalizazione di un locale al piano terra nel centro storico della città di Klagenfurt in
+Austria.
