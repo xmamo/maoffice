@@ -28,10 +28,11 @@ h6 {
 }
 
 a {
-  color: hsl(240, 100%, 50%);
+  color: #5A5B5B;
   text-decoration: none;
 
   &:hover {
+    color: #F26722;
     text-decoration: underline;
   }
 }
@@ -120,14 +121,6 @@ menu {
 
   .menu {
     margin: 0;
-  }
-
-  .menu-link {
-    color: #5A5B5B;
-
-    &:hover {
-      color: #F26722;
-    }
   }
 }
 
