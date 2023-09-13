@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: '10.231,70m<sup>2</sup>' }
 
 images:
-  - '/assets/images/palazzo-italia-international-competition/01.jpg'
+  - '/assets/images/palazzo-italia-international-competition/PIC001.jpg'
 ---
 
 Il progetto rielabora in chiave digitale le componenti tipiche dell'Architettura Italiana,
