@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: '11.400m<sup>2</sup>' }
 
 images:
-  - '/assets/images/ex-albergo-operai/11.jpg'
+  - '/assets/images/ex-albergo-operai/EAO001.jpg'
 ---
 
 L'edificio noto come ex Albergo Operai è di importanza storica nel panorama dell'architettura

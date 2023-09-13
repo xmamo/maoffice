@@ -7,7 +7,7 @@ data:
   - { key: 'Anno', value: '2006' }
 
 images:
-  - '/assets/images/biennale-di-venezia/01.jpg'
+  - '/assets/images/biennale-di-venezia/XBV001.jpg'
 ---
 
 La mostra della X Biennale Internazionale di Architettura di Venezia nel 2006 è stata articolata in

@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: '30.400m<sup>2</sup>' }
 
 images:
-  - '/assets/images/new-national-gallery-and-ludwig-museum/01.jpg'
+  - '/assets/images/new-national-gallery-and-ludwig-museum/NGL001.jpg'
 ---
 
 Il primo posto tra le priorità del progetto è occupato dalla creazione di due istituzioni (Ludwig e
