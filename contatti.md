@@ -1,3 +1,7 @@
+---
+layout: 'default'
+---
+
 # Contatti
 
 Morena Architects \

@@ -30,12 +30,12 @@ carousel:
     @for $i from 0 to $count {
       #{percentage($i / $count)},
       #{percentage(($total-duration * $i + $image-duration) / ($total-duration * $count))} {
-        translate: (-100% * $i);
+        transform: translateX(-100% * $i);
       }
     }
 
     100% {
-      translate: (-100% * $count);
+      transform: translateX(-100% * $count);
     }
   }
 {% endcapture %}
@@ -47,19 +47,17 @@ carousel:
 {% endcapture %}
 
 {% capture the_content %}
-  <main>
-    <h1>Morena Architects è uno studio internazionale di architettura con sede a Monfalcone, Italia</h1>
+  <h1>Morena Architects è uno studio internazionale di architettura con sede a Monfalcone, Italia</h1>
 
-    <div class="carousel">
-      {% for image in page.carousel.images %}
-        <img src="{{ image | relative_url }}" class="carousel-item cover"  />
-      {% endfor %}
+  <div class="carousel">
+    {% for image in page.carousel.images %}
+      <img src="{{ image | relative_url }}" class="carousel-item cover"  />
+    {% endfor %}
 
-      {% for image in page.carousel.images limit: 1 %}
-        <img src="{{ image | relative_url }}" class="carousel-item cover" />
-      {% endfor %}
-    </div>
-  </main>
+    {% for image in page.carousel.images limit: 1 %}
+      <img src="{{ image | relative_url }}" class="carousel-item cover" />
+    {% endfor %}
+  </div>
 {% endcapture %}
 
 {% include layout.html head_other=the_css content=the_content %}
