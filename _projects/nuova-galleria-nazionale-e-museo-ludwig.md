@@ -24,13 +24,13 @@ di organizzazione dello spazio interno.
 Il concept è una sorta di quadro caleidoscopico dell'Ungheria che giace nella memoria del
 subconscio:
 
- * lo Stemma che mostra i tre monti storici: Tatra, Fatra, Matra;
+* lo Stemma che mostra i tre monti storici: Tatra, Fatra, Matra;
 
- * l'architettura organica che è stata così influente nel dibattito internazionale intellettuale;
+* l'architettura organica che è stata così influente nel dibattito internazionale intellettuale;
 
- * le caratteristiche del paesaggio;
+* le caratteristiche del paesaggio;
 
- * la forma e il design dei tetti tradizionali.
+* la forma e il design dei tetti tradizionali.
 
 Tutto questo è "concept".
 
