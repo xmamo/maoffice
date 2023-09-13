@@ -1,5 +1,5 @@
 ---
-title: 'Nuova Galleria Nazionale e museo Ludwig'
+title: 'Nuova Galleria Nazionale e Museo Ludwig'
 
 data:
   - { key: 'Luogo', value: 'Budapest, Ungheria' }
