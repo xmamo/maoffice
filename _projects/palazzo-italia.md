@@ -1,5 +1,5 @@
 ---
-title: 'Palazzo Italia: concorso internazionale "Padiglione Italia Expo 2015"'
+title: 'Padiglione Italia Expo 2015, concorso internazionale'
 
 data:
   - { key: 'Luogo', value: 'Milano, Italia' }
