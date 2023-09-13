@@ -18,10 +18,10 @@ Molto spesso il dibattito internazionale sui musei contemporanei è sbilanciato 
 dell'estetica a scapito della funzionalità o del suo esatto contrario.
 
 I criteri di progettazione di questi nuovi musei vogliono evitare tutto questo: la visione è
-veicolata ad  immaginare un volume armonico che unisce valori estetici e simbolici con una
-semplicità di organizzazione dello spazio interno.
+veicolata ad immaginare un volume armonico che unisce valori estetici e simbolici con una semplicità
+di organizzazione dello spazio interno.
  
-Il concept  è una sorta di quadro caleidoscopico dell'Ungheria che giace nella memoria del
+Il concept è una sorta di quadro caleidoscopico dell'Ungheria che giace nella memoria del
 subconscio:
 
  * lo Stemma che mostra i tre monti storici: Tatra, Fatra, Matra;
