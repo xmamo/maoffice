@@ -1,11 +1,11 @@
 ---
-title: 'Banca Popolare di Cividale del Friuli'
+title: 'Red Cafè'
 
 data:
-  - { key: 'Luogo', value: 'Cividale (UD), Italia' }
-  - { key: 'Committente', value: 'Tabogan S.r.l.' }
-  - { key: 'Anno', value: '2009' }
-  - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
+  - { key: 'Luogo', value: 'Tavagnacco (UD), Italia' }
+  - { key: 'Committente', value: 'CCT Friuli' }
+  - { key: 'Anno', value: '2018' }
+  - { key: 'Area', value: 'SLP 150m<sup>2</sup>' }
 
 images:
   - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
