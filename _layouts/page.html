@@ -12,7 +12,18 @@ layout: 'default'
       <dl class="horizontal">
         {% for datum in page.data %}
           <dt>{{ datum.key | smartify }}</dt>
-          <dd>{{ datum.value | smartify }}</dd>
+
+          {% if datum.type == 'list' %}
+            <dd style="clear: left;">
+              <ul style="list-style: none; padding: 0;">
+                {% for value in datum.values %}
+                  <li>{{ value }}</li>
+                {% endfor %}
+              </ul>
+            </dd>
+          {% else %}
+            <dd>{{ datum.value | smartify }}</dd>
+          {% endif %}
         {% endfor %}
       </dl>
     {% endif %}

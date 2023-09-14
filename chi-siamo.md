@@ -3,33 +3,37 @@ title: 'Chi siamo'
 
 data:
   - key: 'Chief Architect'
-    value: 'Morena Francesco'
+    type: 'list'
+    values: [ 'Morena Francesco' ]
 
   - key: 'Collaboratori dal 2010'
-    value: >-
-      Babich Francesco,
-      Botteghelli Lorenzo,
-      Buda Ivo,
-      Casarotti Attilio,
-      Chiara Vriz Maria Chiara,
-      Clemente Giulia,
-      Daros Riccardo,
-      Ferrari Tatiana,
-      Filligoi Martina,
-      Forgione Martina,
-      Fornasari Andrea,
-      Gigante Silvia,
-      Kosuta Erika,
-      Montagnana Giovanni,
-      Moretto Laura,
-      Perco Valeria,
-      Quattrocchi Mattia,
-      Santarossa Fabio,
-      Seculin Francesco,
-      Vianello Serena,
-      Visintini Luca,
-      Zanasi Roberto,
-      Zanolla Mancini Francesco
+    type: 'list'
+
+    values:
+      - Babich Francesco
+      - Botteghelli Lorenzo
+      - Buda Ivo
+      - Casarotti Attilio
+      - Chiara Vriz Maria Chiara
+      - Clemente Giulia
+      - Daros Riccardo
+      - Ferrari Tatiana
+      - Filligoi Martina
+      - Forgione Martina
+      - Fornasari Andrea
+      - Gigante Silvia
+      - Kosuta Erika
+      - Montagnana Giovanni
+      - Moretto Laura
+      - Perco Valeria
+      - Quattrocchi Mattia
+      - Santarossa Fabio
+      - Seculin Francesco
+      - Stanta Igor
+      - Vianello Serena
+      - Visintini Luca
+      - Zanasi Roberto
+      - Zanolla Mancini Francesco
 ---
 
 L'Architetto Francesco Morena apre un proprio studio professionale nel 1983 a Monfalcone (GO) con il
