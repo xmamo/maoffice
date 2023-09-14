@@ -1,5 +1,5 @@
 ---
-title: 'Case Xpanel prefabbricate in legno'
+title: 'Xpanel, case prefabbricate in legno'
 
 data:
   - { key: 'Luogo', value: 'L Aquila' }
