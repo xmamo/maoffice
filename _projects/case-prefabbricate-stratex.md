@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 1.560m<sup>2</sup>' }
 
 images:
-  - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
+  - '/assets/images/case-prefabbricate-stratex/CPS001.jpg'
 ---
 
 Il progetto prevede la realizzazione di due case unifamiliari prefabbricate a basso costo, di 95 mq 
