@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 1.000m<sup>2</sup>' }
 
 images:
-  - '/assets/images/chiesa-redemptois-mater/CRM001.jpg'
+  - '/assets/images/redemptoris-mater/CRM001.jpg'
 ---
 
 Il primo compito di un progettista che si avvicina all'arduo mestiere di immaginare una nuova
