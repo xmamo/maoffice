@@ -1,11 +1,11 @@
 ---
-title: 'Banca Popolare di Cividale del Friuli'
+title: 'Case Xpanel prefabbricate in legno'
 
 data:
-  - { key: 'Luogo', value: 'Cividale (UD), Italia' }
-  - { key: 'Committente', value: 'Tabogan S.r.l.' }
-  - { key: 'Anno', value: '2009' }
-  - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
+  - { key: 'Luogo', value: 'L'Aquila' }
+  - { key: 'Committente', value: 'Stratex S.p.A.' }
+  - { key: 'Anno', value: '20119' }
+  - { key: 'Area', value: 'SLP 1.560m<sup>2</sup>' }
 
 images:
   - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
