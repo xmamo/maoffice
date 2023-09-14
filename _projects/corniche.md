@@ -3,7 +3,7 @@ title: 'Corniche Alkobar'
 
 data:
   - { key: 'Luogo', value: 'Dammam, Arabia Saudita' }
-  - { key: 'Committente', value: 'Privato' }
+  - { key: 'Committente', value: 'privato' }
   - { key: 'Anno', value: '2015' }
   - { key: 'Area', value: 'SLP 360.000m<sup>2</sup>' }
 

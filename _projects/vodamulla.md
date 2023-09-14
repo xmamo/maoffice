@@ -3,7 +3,7 @@ title: 'Vodamulla Land'
 
 data:
   - { key: 'Luogo', value: 'Isola di Vodamulla, Maldive' }
-  - { key: 'Committente', value: 'Privato' }
+  - { key: 'Committente', value: 'privato' }
   - { key: 'Anno', value: '2009' }
   - { key: 'Area', value: 'SLP 150.0000m<sup>2</sup>' }
 
