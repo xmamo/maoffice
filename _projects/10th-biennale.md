@@ -1,5 +1,5 @@
 ---
-title: 'X Biennale di Venezia'
+title: '10th Biennale di Venezia'
 
 data:
   - { key: 'Luogo', value: 'Venezia, Italia' }
@@ -12,7 +12,7 @@ images:
 
 La mostra della X Biennale Internazionale di Architettura di Venezia nel 2006 è stata articolata in
 tre distinti momenti, tra loro complementari: "Città. Architettura e società", "Città di Pietra" e
-"Città---Porto".
+"Città-Porto".
 Nei 300m delle Corderie dell'Arsenale la mostra centrale "Città. Architettura e Società" ha
 presentato un allestimento con le esperienze urbane di 16 grandi città nei quattro continenti del
 pianeta.
