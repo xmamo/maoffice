@@ -15,7 +15,11 @@ body {
   padding: 1em;
   max-width: 960px;
   color: hsl(0, 0%, 10%);
-  font: #{1em * (18px / 16px)}/1.5 sans-serif;
+  font: 0.9em/1.5 sans-serif;
+
+  @media (min-width: 576px) {
+    font-size: 1em * (18px / 16px);
+  }
 }
 
 h1,
@@ -125,5 +129,5 @@ menu {
 }
 
 #main-logo {
-  height: 4em;
+  max-height: 4em;
 }

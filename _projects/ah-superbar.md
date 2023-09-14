@@ -3,7 +3,7 @@ title: 'AH Superbar'
 
 data:
   - { key: 'Luogo', value: 'Klagenfurt, Austria' }
-  - { key: 'Committente', value: 'Privato' }
+  - { key: 'Committente', value: 'privato' }
   - { key: 'Anno', value: '2017' }
   - { key: 'Area', value: 'SLP 150m<sup>2</sup>' }
 
