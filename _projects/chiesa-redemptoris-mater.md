@@ -2,10 +2,10 @@
 title: 'Banca Popolare di Cividale del Friuli'
 
 data:
-  - { key: 'Luogo', value: 'Cividale (UD), Italia' }
-  - { key: 'Committente', value: 'Conocrso internaziopnale diocesi di Monreale PA' }
-  - { key: 'Anno', value: '2009' }
-  - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
+  - { key: 'Luogo', value: 'Cinisi PA' }
+  - { key: 'Committente', value: 'Concorso internazionale, Diocesi di Monreale PA' }
+  - { key: 'Anno', value: '2015' }
+  - { key: 'Area', value: 'SLP 1.000m<sup>2</sup>' }
 
 images:
   - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
