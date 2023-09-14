@@ -1,5 +1,5 @@
 ---
-title: 'Banca Popolare di Cividale del Friuli'
+title: 'Case XPanel prefabbricate in legno'
 
 data:
   - { key: 'Luogo', value: 'Cividale (UD), Italia' }
@@ -11,8 +11,15 @@ images:
   - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
 ---
 
-Il progetto prevede la realizzazione di due case unifamiliari prefabbricate a basso costo, di 95 mq di 
-superficie coperta ciascuna. Le case verranno realizzate con il sistema di pannelli x-panel®, il quale 
-comporta numerosi vantaggi tra cui un minor costo e velocità di posa rispetto all'assemblaggio di un pacchetto 
-tradizionale in opera. Le case inoltre sono state progettate con la prerogativa di offrire un alto comfort 
-interno rispettando i criteri di massimo contenimento energetico.
+La Nuova Sede della Banca Popolare di Cividale sorge all'interno dell'ex area Italcementi. Si tratta
+di un progetto caratterizzato da geometrie sinuose e da una facciata modulare in cemento
+fotocatalitico e vetrate bassoemissive. La sagoma del piano terra è arretrata rispetto ai piani
+superiori in modo da far posto al portico perimetrale e diminuire l'irraggiamento della parete
+vetrata a tutt'altezza. Sul fronte principale la modularità si spezza e una vetrata inclinata scende
+fino a terra. Davanti ad essa svetta un volume collegato al corpo principale e al cui interno trova
+posto la sala consiliare. Questo volume è costituito da elementi triangolari irregolari ed è
+sostenuto da quattro pilastri metallici che si innalzano da una vasca d'acqua.
+
+In fase progettuale si è fatta molta attenzione oltre ai materiali e alla coibentazione, anche al
+sistema impiantistico che vanta pannelli fotovoltaici sulla copertura e una centrale di
+trigenerazione. Grazie a questi accorgimenti l'edificio rientra nella classe energetica A.
