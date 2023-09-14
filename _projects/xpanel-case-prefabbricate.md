@@ -2,13 +2,13 @@
 title: 'Xpanel, case prefabbricate in legno'
 
 data:
-  - { key: 'Luogo', value: 'L Aquila' }
+  - { key: 'Luogo', value: 'L''Aquila' }
   - { key: 'Committente', value: 'Stratex S.p.A.' }
   - { key: 'Anno', value: '20119' }
   - { key: 'Area', value: 'SLP 1.560m<sup>2</sup>' }
 
 images:
-  - '/assets/images/case-prefabbricate-stratex/CPS001.jpg'
+  - '/assets/images/xpanel-case-prefabbricate/CPS001.jpg'
 ---
 
 Il progetto prevede la realizzazione di due case unifamiliari prefabbricate a basso costo, di 95 mq

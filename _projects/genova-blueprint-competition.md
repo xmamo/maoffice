@@ -1,5 +1,5 @@
 ---
-title: 'Genova Blueprint Competiton'
+title: 'Genova Blueprint Competition'
 
 data:
   - { key: 'Luogo', value: 'Genova, Italia' }
@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 50.000m<sup>2</sup>' }
 
 images:
-  - '/assets/images/genova-blueprint/GBP001.jpg'
+  - '/assets/images/genova-blueprint-competition/GBP001.jpg'
 ---
 
 Per la proposta progettuale lo Studio MA ha elaborato un masterplan per l'ambito dell'Ex-Fiera di

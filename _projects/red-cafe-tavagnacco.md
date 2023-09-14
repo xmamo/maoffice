@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 150m<sup>2</sup>' }
 
 images:
-  - '/assets/images/red-cafè-tavagnacco/RCT001.jpg'
+  - '/assets/images/red-cafe-tavagnacco/RCT001.jpg'
 ---
 
 Il bar del Centro Commerciale Friuli di Accompagnata (UD) si configura come un'area di ristorazione

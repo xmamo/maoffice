@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 150.0000m<sup>2</sup>' }
 
 images:
-  - '/assets/images/vodamulla/VLH001.jpg'
+  - '/assets/images/vodamulla-land/VLH001.jpg'
 ---
 
 L'idea di base del progetto è quella di creare un eco-resort dove il costruito e la natura si

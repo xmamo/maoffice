@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 360.000m<sup>2</sup>' }
 
 images:
-  - '/assets/images/corniche/CAD001.jpg'
+  - '/assets/images/corniche-alkobar/CAD001.jpg'
 ---
 
 Il concept che ha ispirato la progettazione della corniche, un waterfront di qualche chilometro, è
