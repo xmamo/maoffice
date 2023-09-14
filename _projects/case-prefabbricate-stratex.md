@@ -2,7 +2,7 @@
 title: 'Case Xpanel prefabbricate in legno'
 
 data:
-  - { key: 'Luogo', value: 'L'Aquila' }
+  - { key: 'Luogo', value: 'L Aquila' }
   - { key: 'Committente', value: 'Stratex S.p.A.' }
   - { key: 'Anno', value: '20119' }
   - { key: 'Area', value: 'SLP 1.560m<sup>2</sup>' }
