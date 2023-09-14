@@ -1,5 +1,5 @@
 ---
-title: 'Complesso parrocchiale Redemptoris Mater'
+title: 'Redemptoris Mater, complesso parrocchiale'
 
 data:
   - { key: 'Luogo', value: 'Cinisi (PA)' }
