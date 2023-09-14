@@ -3,7 +3,7 @@ title: 'Banca Popolare di Cividale del Friuli'
 
 data:
   - { key: 'Luogo', value: 'Cividale (UD), Italia' }
-  - { key: 'Committente', value: 'Tabogan S.r.l.' }
+  - { key: 'Committente', value: 'Conocrso internaziopnale diocesi di Monreale PA' }
   - { key: 'Anno', value: '2009' }
   - { key: 'Area', value: 'SLP 9.250m<sup>2</sup>' }
 
