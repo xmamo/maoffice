@@ -1,5 +1,5 @@
 ---
-title: 'Case XPanel - Prefabbricati in legno'
+title: 'Case XPanel Prefabbricati in legno'
 
 data:
   - { key: 'Luogo', value: 'San Giacomo, L'Aquila' }
