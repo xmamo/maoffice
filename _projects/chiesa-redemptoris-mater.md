@@ -1,5 +1,5 @@
 ---
-title: 'Banca Popolare di Cividale del Friuli'
+title: 'Chiesa Redemptoris Mater'
 
 data:
   - { key: 'Luogo', value: 'Cinisi PA' }
