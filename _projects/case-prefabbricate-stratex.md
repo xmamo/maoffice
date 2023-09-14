@@ -2,7 +2,7 @@
 title: 'Case XPanel - Prefabbricati in legno'
 
 data:
-  - { key: 'Luogo', value: 'San Giacomo - L'Aquila' }
+  - { key: 'Luogo', value: 'San Giacomo, L'Aquila' }
   - { key: 'Committente', value: 'Stratex S.p.A.' }
   - { key: 'Anno', value: '2011' }
   - { key: 'Area', value: 'SLP 1.560m<sup>2</sup>' }
