@@ -1,5 +1,5 @@
 ---
-title: 'Red Cafè'
+title: 'Red Cafè CCT Friuli'
 
 data:
   - { key: 'Luogo', value: 'Tavagnacco (UD), Italia' }
