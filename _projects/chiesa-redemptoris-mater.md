@@ -11,16 +11,19 @@ images:
   - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
 ---
 
-La Nuova Sede della Banca Popolare di Cividale sorge all'interno dell'ex area Italcementi. Si tratta
-di un progetto caratterizzato da geometrie sinuose e da una facciata modulare in cemento
-fotocatalitico e vetrate bassoemissive. La sagoma del piano terra è arretrata rispetto ai piani
-superiori in modo da far posto al portico perimetrale e diminuire l'irraggiamento della parete
-vetrata a tutt'altezza. Sul fronte principale la modularità si spezza e una vetrata inclinata scende
-fino a terra. Davanti ad essa svetta un volume collegato al corpo principale e al cui interno trova
-posto la sala consiliare. Questo volume è costituito da elementi triangolari irregolari ed è
-sostenuto da quattro pilastri metallici che si innalzano da una vasca d'acqua.
-
-In fase progettuale si è fatta molta attenzione oltre ai materiali e alla coibentazione, anche al
-sistema impiantistico che vanta pannelli fotovoltaici sulla copertura e una centrale di
-trigenerazione. Grazie a questi accorgimenti l'edificio rientra nella classe energetica A.
+Il primo compito di un progettista che si avvicina all’arduo mestiere di immaginare una nuova chiesa, è 
+innanzitutto riuscire a cogliere il sensus ecclesiae del luogo. Il luogo in cui dovrà sorgere la nuova chiesa 
+è pieno di contrasti tra la cruda armonia di luci e di ombre, tra terre coltivate e asprezza di montagna, tra mare 
+e roccia.  E’ luogo che richiama alla linearità, alla pulizia dei segni, alla essenzialità.
+Il senso del luogo suggerisce all’architetto l’immagine di “nobile semplicità” auspicata dalla Sacrosanctum  
+Concilium 34, intendendo la Chiesa come “domus” casa tra le case, luogo accogliente nella dimensione della 
+maternità come un abbraccio: ad Jesus per Mariam. Il rapporto tra spazi esterni ed interni è mediato da ombrosi 
+porticati e l’accoglienza è basata sulla morbidezza delle forme e la sinuosità delle linee.
+Le forature circolari della volta della Chiesa sono disposte in maniera da dare all’altare la massima illuminazione 
+naturale il giorno 25 marzo – Annunciazione. Tutti gli spazi saranno comunque permeati da luce soffusa e quieta.     
+La copertura della Chiesa rappresenta il “quinto lato” del progetto ed è stata immaginata a simboleggiare il velo di Maria. 
+I lembi di questo velo si alzano e si abbassano sino a coprire morbidamente gli spazi interni, e si trasformano secondo un 
+gioco di curve sino ad innalzarsi nella torre campanaria. La torre campanaria è simbolicamente parte del velo di Maria, 
+che attraverso un processo di rarefazione si spinge 
+verso l’alto dividendosi in numerosi filamenti. 
 
