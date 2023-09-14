@@ -8,7 +8,7 @@ data:
   - { key: 'Area', value: 'SLP 1.500m<sup>2</sup>' }
 
 images:
-  - '/assets/images/banca-popolare-di-cividale-del-friuli/BPC001.jpg'
+  - '/assets/images/cividale-housing/HCR001.jpg'
 ---
 
 Il progetto prevede due Edifici Residenziali all’interno dell’Area “Ex Italcementi”.
