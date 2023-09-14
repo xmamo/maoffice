@@ -2,8 +2,8 @@
 title: 'Complesso parrocchiale Redemptoris Mater'
 
 data:
-  - { key: 'Luogo', value: 'Cinisi PA' }
-  - { key: 'Committente', value: 'Concorso internazionale, Diocesi di Monreale PA' }
+  - { key: 'Luogo', value: 'Cinisi (PA)' }
+  - { key: 'Committente', value: 'Concorso internazionale, Diocesi di Monreale (PA)' }
   - { key: 'Anno', value: '2015' }
   - { key: 'Area', value: 'SLP 1.000m<sup>2</sup>' }
 
